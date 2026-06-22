@@ -1,7 +1,3 @@
-#char = input("Enter a character: ")
-#Shift = int(input("Enter the shift value: "))
-#Encryted = chr(ord(char) + Shift)
-#print ("Encrypted character: ", Encryted)
 print ("================== Welcome to Encrypted & Decrypted App ==================")
 Text = input("Enter a text: ")
 Shift = int(input("Enter the shift value: "))
